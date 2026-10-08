@@ -1,0 +1,12 @@
+# design mockups and working files — not part of the published site
+/Automotive Software Engineer Portfolio.png
+/Dark Automotive Engineer Portfolio Resume.png
+/Light.jpg
+/assets/CAR-PROMPT.md
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
