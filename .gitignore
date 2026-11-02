@@ -13,7 +13,7 @@ desktop.ini
 
 # resume working files — site serves assets/resume.pdf
 ~$*
-*.docx
+/*.docx
 /Resume__9_2026.pdf
 /resume-source.html
 /resume-build.py
