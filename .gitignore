@@ -10,3 +10,11 @@ desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
+# resume working files — site serves assets/resume.pdf
+~$*
+*.docx
+/Resume__9_2026.pdf
+/resume-source.html
+/resume-build.py
+/build_resume_docx.py

@@ -108,8 +108,6 @@ section:nth-of-type(even){background:var(--bg-2)}
 .grad{background:linear-gradient(120deg,var(--accent),var(--accent-2));
   -webkit-background-clip:text;background-clip:text;color:transparent}
 .role-line{font-size:21px;font-weight:600;margin-bottom:4px}
-.org-line{font-size:15px;color:var(--text-2);margin-bottom:22px}
-.org-line i{font-style:normal;opacity:.4;margin:0 8px}
 .lede{color:var(--text-2);max-width:48ch;margin-bottom:30px}
 
 .btn-row{display:flex;flex-wrap:wrap;gap:12px}
